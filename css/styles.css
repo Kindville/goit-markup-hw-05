@@ -210,7 +210,6 @@ img {
     border: 1px solid rgba(0, 0, 0, 0.1);   
 }
 
-
 .hero-button {  
     display: flex;
     margin: auto;
@@ -232,7 +231,6 @@ img {
 }
 .hero .link {
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1), background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
-
 }
 .hero .link:hover,
 .hero .link:focus{
